@@ -65,4 +65,4 @@ length: "Full news release, about 600 words plus four tables (read in full)"
 
 ## Links
 
-[[cbs]] · [[ai-adoption-by-firm-size]] · [[ai-adoption-by-sector]] · [[ai-for-marketing-and-sales]] · [[ai-adoption-barriers]] · [[generative-ai-use-in-smes]]
+[[cbs]] · [[ai-adoption-by-firm-size]] · [[ai-adoption-by-sector]] · [[ai-for-marketing-and-sales]] · [[ai-adoption-barriers]] · [[generative-ai-use-in-smes]] · [[run-001]] · [[run-004]] · [[run-005]] · [[run-006]] · [[run-007]]

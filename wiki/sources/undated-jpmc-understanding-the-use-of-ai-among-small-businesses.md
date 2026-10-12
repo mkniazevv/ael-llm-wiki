@@ -50,4 +50,4 @@ length: "Figure titles and chart descriptions only (14 figures); the article tex
 
 ## Links
 
-[[jpmorganchase-institute]] · [[ai-adoption-by-firm-size]] · [[ai-adoption-by-sector]] · [[generative-ai-use-in-smes]] · [[ai-spending-by-small-firms]]
+[[jpmorganchase-institute]] · [[ai-adoption-by-firm-size]] · [[ai-adoption-by-sector]] · [[generative-ai-use-in-smes]] · [[ai-spending-by-small-firms]] · [[run-003]]

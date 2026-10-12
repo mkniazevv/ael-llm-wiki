@@ -53,4 +53,4 @@ length: "~60 pages plus annex; executive summary, chapters 1 and 2 and the cited
 
 ## Links
 
-[[oecd]] · [[ai-adoption-by-firm-size]] · [[ai-adoption-by-sector]] · [[ai-adoption-barriers]] · [[generative-ai-use-in-smes]] · [[complexity-of-ai-use]]
+[[oecd]] · [[ai-adoption-by-firm-size]] · [[ai-adoption-by-sector]] · [[ai-adoption-barriers]] · [[generative-ai-use-in-smes]] · [[complexity-of-ai-use]] · [[run-002]]

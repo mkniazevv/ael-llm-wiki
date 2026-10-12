@@ -31,3 +31,24 @@ other sections alphabetical.
 ## Syntheses
 
 - [[where-should-a-small-agency-start-with-ai]]: which part of a small agency's work to test AI on first, answered from the wiki.
+
+## Agent runs
+
+Sent from the research agent's panel; one page per research run.
+
+- [[run-001]]: RUN-001, Bedrijven gebruiken AI vaakst voor marketing of verkoop: page approved by Maksim Kniazev.
+- [[run-002]]: RUN-002, AI adoption by small and medium-sized enterprises (EN): page approved by Maksim Kniazev.
+- [[run-003]]: RUN-003, Understanding the use of AI among small businesses: page approved by Samsul Arefin.
+- [[run-004]]: RUN-004, Bedrijven gebruiken AI vaakst voor marketing of verkoop (Centraal Bureau voor de Statistiek): page approved by Samsul Arefin.
+- [[run-005]]: RUN-005, Businesses use AI most often for marketing or sales (Centraal Bureau voor de Statistiek): translated, not yet appraised.
+- [[run-006]]: RUN-006, Businesses use AI most often for marketing or sales (Centraal Bureau voor de Statistiek): appraisal accepted by Maksim Kniazev (7/10, Tier B).
+- [[run-007]]: RUN-007, Bedrijven gebruiken AI vaakst voor marketing of verkoop (Centraal Bureau voor de Statistiek): ingested, not yet appraised.
+
+## Handbook pages
+
+Pages approved in the research agent's final review; one source each.
+
+- [[your-clients-are-using-ai-for-marketing-too-what-dutch-business]]: Your clients are using AI for marketing too: what Dutch business statistics show (from RUN-004, approved by Samsul Arefin).
+- [[paid-ai-use-in-small-firms-is-growing-fast-but-mostly-on-small-budgets]]: Paid AI use in small firms is growing fast, but mostly on small budgets (from RUN-003, approved by Samsul Arefin).
+- [[small-firms-and-ai-where-they-stand-and-a-careful-place-to-start]]: Small firms and AI: where they stand, and a careful place to start (from RUN-002, approved by Maksim Kniazev).
+- [[why-businesses-hold-back-from-ai-and-what-that-means-for-your-agency]]: Why businesses hold back from AI, and what that means for your agency (from RUN-001, approved by Maksim Kniazev).

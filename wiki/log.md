@@ -10,6 +10,62 @@ that were read, so a wrong answer can be traced to what it was built on.
 
 ---
 
+## [2026-10-12] ingest | RUN-007 from the panel — Bedrijven gebruiken AI vaakst voor marketing of verkoop
+
+- Added by: Maksim (Send to wiki, agent v0 panel)
+- New: [[run-007]]
+- Updated: [[2025-12-12-cbs-bedrijven-gebruiken-ai-vaakst-voor-marketing-of-verkoop]] (link to RUN-007)
+- Debates: none (no new source)
+- Lint: 3 sources, 3 entities, 7 concepts, 1 synthesis, 7 runs, 4 handbook pages. 0 error(s), 0 warning(s).
+
+## [2026-10-12] ingest | RUN-006 from the panel — Bedrijven gebruiken AI vaakst voor marketing of verkoop
+
+- Added by: Maksim (Send to wiki, agent v0 panel)
+- New: [[run-006]]
+- Updated: [[2025-12-12-cbs-bedrijven-gebruiken-ai-vaakst-voor-marketing-of-verkoop]] (link to RUN-006)
+- Debates: none (no new source)
+- Lint: 3 sources, 3 entities, 7 concepts, 1 synthesis, 6 runs, 4 handbook pages. 0 error(s), 0 warning(s).
+
+## [2026-10-12] ingest | RUN-005 from the panel — Bedrijven gebruiken AI vaakst voor marketing of verkoop
+
+- Added by: Maksim (Send to wiki, agent v0 panel)
+- New: [[run-005]]
+- Updated: [[2025-12-12-cbs-bedrijven-gebruiken-ai-vaakst-voor-marketing-of-verkoop]] (link to RUN-005)
+- Debates: none (no new source)
+- Lint: 3 sources, 3 entities, 7 concepts, 1 synthesis, 5 runs, 4 handbook pages. 0 error(s), 0 warning(s).
+
+## [2026-10-12] ingest | RUN-004 from the panel — Bedrijven gebruiken AI vaakst voor marketing of verkoop
+
+- Added by: Maksim (Send to wiki, agent v0 panel)
+- New: [[run-004]], [[your-clients-are-using-ai-for-marketing-too-what-dutch-business]]
+- Updated: [[2025-12-12-cbs-bedrijven-gebruiken-ai-vaakst-voor-marketing-of-verkoop]] (link to RUN-004)
+- Debates: none (no new source)
+- Lint: 3 sources, 3 entities, 7 concepts, 1 synthesis, 4 runs, 4 handbook pages. 0 error(s), 0 warning(s).
+
+## [2026-10-12] ingest | RUN-003 from the panel — Understanding the use of AI among small businesses
+
+- Added by: Maksim (Send to wiki, agent v0 panel)
+- New: [[run-003]], [[paid-ai-use-in-small-firms-is-growing-fast-but-mostly-on-small-budgets]]
+- Updated: [[undated-jpmc-understanding-the-use-of-ai-among-small-businesses]] (link to RUN-003)
+- Debates: none (no new source)
+- Lint: 3 sources, 3 entities, 7 concepts, 1 synthesis, 3 runs, 3 handbook pages. 0 error(s), 0 warning(s).
+
+## [2026-10-12] ingest | RUN-002 from the panel — AI adoption by small and medium-sized enterprises (EN)
+
+- Added by: Maksim (Send to wiki, agent v0 panel)
+- New: [[run-002]], [[small-firms-and-ai-where-they-stand-and-a-careful-place-to-start]]
+- Updated: [[2025-oecd-ai-adoption-by-small-and-medium-sized-enterprises]] (link to RUN-002)
+- Debates: none (no new source)
+- Lint: 3 sources, 3 entities, 7 concepts, 1 synthesis, 2 runs, 2 handbook pages. 0 error(s), 0 warning(s).
+
+## [2026-10-12] ingest | RUN-001 from the panel — Bedrijven gebruiken AI vaakst voor marketing of verkoop
+
+- Added by: Maksim (Send to wiki, agent v0 panel)
+- New: [[run-001]], [[why-businesses-hold-back-from-ai-and-what-that-means-for-your-agency]]
+- Updated: [[2025-12-12-cbs-bedrijven-gebruiken-ai-vaakst-voor-marketing-of-verkoop]] (link to RUN-001)
+- Debates: none (no new source)
+- Lint: 3 sources, 3 entities, 7 concepts, 1 synthesis, 1 run, 1 handbook. 0 error(s), 0 warning(s).
+
 ## [2026-10-12] schema | Two new page types: agent runs and handbook pages
 
 - Asked by: Maksim
