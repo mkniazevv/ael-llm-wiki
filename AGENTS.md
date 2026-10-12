@@ -25,7 +25,7 @@ the result. Contradictions are flagged when a source comes in, not when someone 
 | Layer | Folder | Who writes it |
 |---|---|---|
 | **Raw sources** | `raw/` | The team adds files. **Nobody edits them afterwards**, the assistant included. They are the evidence. |
-| **The wiki** | `wiki/` | The assistant. The team reads it, checks it, and asks for changes. |
+| **The wiki** | `wiki/` | The assistant, and the research agent's **Send to wiki** button (raw files, source pages, run pages, handbook pages). The team reads it, checks it, and asks for changes. |
 | **The schema** | `AGENTS.md` (this file) | The team, together with the assistant. |
 
 ## Page types
@@ -118,6 +118,48 @@ source_count: 3
 
 Body: `## Question`, `## Answer`, `## Sources consulted` (every page used, as wikilinks),
 `## Open questions` (what the wiki could not answer).
+
+### Agent run — `wiki/runs/run-<number>.md`
+
+The record of one research run in the team's research agent (agent v0, the control panel): what went
+in, what the AI suggested, what the researcher decided, and what came out. Written by the panel's
+**Send to wiki** button, not by hand. It is a record, so it is rewritten each time the run is sent
+again; git keeps the earlier versions.
+
+```yaml
+---
+type: run
+run_id: RUN-004
+source_title: "Exact title of the source"
+started: 2026-09-27
+status: "Page approved by Samsul Arefin"
+---
+```
+
+Body: `## Input` (the source details and privacy check), `## Translation`, `## Appraisal` (the AI's
+scores and reasons next to the researcher's scores and decision), `## Evidence` (every proposed
+item, ticked or not, with its verbatim quote), `## Draft and check`, `## Review`, `## Activity log`,
+`## Links` (the source page and the handbook page). Text written by the AI is marked as such; it is
+not evidence.
+
+### Handbook page — `wiki/handbook/<slug>.md`
+
+A handbook page the research agent drafted from one source's approved evidence and a researcher
+approved in its final review. The panel writes it when a run with an approved page is sent. Every
+block keeps its label (evidence, interpretation, assumption, recommendation, example) and its
+citations (`[E1]` = evidence item E1 of the run page); the quotes behind them are under `## Quotes`.
+
+```yaml
+---
+type: handbook
+run_id: RUN-004
+question: "The handbook question the page answers"
+approved_by: "Samsul Arefin"
+date_approved: 2026-09-27
+---
+```
+
+Pages that combine several sources are syntheses, not handbook pages.
 
 ### Catalogues
 

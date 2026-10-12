@@ -10,6 +10,13 @@ that were read, so a wrong answer can be traced to what it was built on.
 
 ---
 
+## [2026-10-12] schema | Two new page types: agent runs and handbook pages
+
+- Asked by: Maksim
+- Change: `AGENTS.md` adds `type: run` (`wiki/runs/`) and `type: handbook` (`wiki/handbook/`); `tools/lint.py` checks both.
+- Why: every research run in agent v0 (inputs, AI suggestions, researcher decisions, outputs) and every approved handbook page should be in the wiki, written by the panel's Send to wiki button.
+- Recorded in the team's decision log as decision 014.
+
 ## [2026-10-11] lint | after the first three ingests
 
 - Script: 0 errors, 0 warnings (an orphan warning for the synthesis was fixed by linking it from two concept pages).

@@ -35,8 +35,11 @@ REQUIRED = {
     "entity": ["kind", "confidence", "last_confirmed", "source_count"],
     "concept": ["confidence", "last_confirmed", "source_count"],
     "synthesis": ["question", "date", "source_count"],
+    "run": ["run_id", "source_title", "started", "status"],
+    "handbook": ["run_id", "question", "approved_by", "date_approved"],
 }
-FOLDER = {"source": "sources", "entity": "entities", "concept": "concepts", "synthesis": "syntheses"}
+FOLDER = {"source": "sources", "entity": "entities", "concept": "concepts", "synthesis": "syntheses",
+          "run": "runs", "handbook": "handbook"}
 
 LINK = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|[^\]]*)?\]\]")
 QUOTE = re.compile(r"[\"“]([^\"“”\n]{20,}?)[\"”]")
@@ -177,7 +180,8 @@ def main():
         errors.append(f"raw-changed   {f}: raw files are never edited; restore it with git checkout -- {f}")
 
     counts = {k: sum(1 for m in meta.values() if m and m.get("type") == k) for k in REQUIRED}
-    plural = {"source": "sources", "entity": "entities", "concept": "concepts", "synthesis": "syntheses"}
+    plural = {"source": "sources", "entity": "entities", "concept": "concepts", "synthesis": "syntheses",
+              "run": "runs", "handbook": "handbook pages"}
     summary = ", ".join(f"{n} {k if n == 1 else plural[k]}" for k, n in counts.items())
     for line in errors:
         print("ERROR  " + line)

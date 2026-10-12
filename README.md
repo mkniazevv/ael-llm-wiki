@@ -5,17 +5,20 @@
 Our team's research wiki for the handbook question: *how can small Dutch marketing and
 advertising agencies (10 to 50 people) use generative AI without losing quality, originality
 and client trust?* It sits next to our research agent (agent v0): sources are appraised there
-with rubric v1.0, then compiled here so we can answer questions across all of them.
+with rubric v1.0, then compiled here so we can answer questions across all of them. The agent's
+**Send to wiki** button files each research run here: its inputs, the AI's suggestions, the
+researcher's decisions and outputs, and the handbook page once it is approved.
 
 **Start here**
 
 - [Index of every page](wiki/index.md)
 - [An answered question: where should a small agency start with AI?](wiki/syntheses/where-should-a-small-agency-start-with-ai.md)
 - [A recorded disagreement: how many 10 to 50 person firms use AI (OECD against CBS)](wiki/concepts/ai-adoption-by-firm-size.md)
+- [Every research run and handbook page from the agent](wiki/index.md#agent-runs)
 - [Log of every ingest and lookup](wiki/log.md)
 
 **What is in it now:** 3 sources (CBS, OECD, JPMorganChase Institute), 3 organisations,
-7 concepts, 1 synthesis. The badge above runs `tools/lint.py` on every change: links,
+7 concepts, 1 synthesis, 7 agent runs (RUN-001 to RUN-007) and 4 approved handbook pages. The badge above runs `tools/lint.py` on every change: links,
 frontmatter, index, and every quote checked word for word against its raw source.
 
 **Next sources we want:** Dutch DPA guidance on generative AI, KVK guidance on an AI policy,
